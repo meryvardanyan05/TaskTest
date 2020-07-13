@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import CustomizedDialogs from '../Modal'
+import CustomizedDialogs from '../Dialog'
 import { makeStyles } from '@material-ui/core';
 import DescriptionIcon from '@material-ui/icons/Description';
 import ChatBubbleOutlineIcon from '@material-ui/icons/ChatBubbleOutline';
